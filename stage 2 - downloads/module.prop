@@ -3,5 +3,5 @@ name=Poco-Debloater-Stage2-Downloads
 version=v1.0.0
 versionCode=100
 author=Ali Beyaz (avalibeyaz.com/github)
-description=Don't forget to uninstall debloated apps from "Settings > Applications > Manage Applications" section if still exist
+description=Don't forget to uninstall "Downloads" app from "Settings > Applications > Manage Applications" section if still exist
 updateJson=https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/stage%202%20-%20downloads/update.json
