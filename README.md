@@ -1,5 +1,5 @@
 # Stage 1 and stage 2 debloater magisk modules  
- Debloat system apps on Poco devices  
+ Debloat various system apps on Poco devices  
  Works on both MIUI 13 and MIUI 12. Should work other MIUI based devices too.   
  Removes these non-removable apps from system without breaking anything:  
 [Stage 1:](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%201)  
