@@ -1,6 +1,4 @@
-# Poco Debloater Stage 1
- Debloat various system apps on Poco devices  
- Works on both MIUI 13 and MIUI 12. Should work other MIUI based devices too.  
+# Poco Debloater Stage 1  
  Removes these non-removable apps from system without breaking anything:  
 > -/system/app/AnalyticsCore - "Analytics"  
 > -/system/app/facebook-appmanager - "Facebook App Manager"  
