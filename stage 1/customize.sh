@@ -39,7 +39,6 @@ REPLACE="
 /system/app/Joyose
 /system/app/MiuiDaemon
 /system/app/MSA-Global
-/system/app/MIDrop
 /system/app/MIUIMiPicks
 /system/app/PaymentService
 /system/app/XiaomiSimActivateService
@@ -48,7 +47,6 @@ REPLACE="
 /system/priv-app/facebook-services
 /system/priv-app/MIUIGlobalMinusScreen
 /system/priv-app/MIUIYellowPageGlobal
-/system/product/app/YouTube
 /system/product/app/GoogleOne
 /system/vendor/app/MipayService
 /system/vendor/app/SoterService
