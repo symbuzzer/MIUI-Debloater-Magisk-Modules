@@ -8,7 +8,7 @@
   > -Facebook App Manager  
   > -Joyose  
   > -MIUI Daemon  
-  > -MSA Global
+  > -MSA Global  
   > -GetApps  
   > -Payment Service  
   > -Xiaomi SIM Activation Service  
