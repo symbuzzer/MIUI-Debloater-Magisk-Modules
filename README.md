@@ -3,7 +3,7 @@
  Works on both MIUI 13 and MIUI 12. Should work other MIUI based devices too.   
  Removes these non-removable apps from system without breaking anything:  
 ## Stage 1:  
-(just installing [stage 1 module](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%201) module will remove all)  
+(just installing [stage 1 module](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%201) will remove all)  
   > -Analytics  
   > -Facebook App Manager  
   > -Joyose  
