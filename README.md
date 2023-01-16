@@ -25,9 +25,9 @@
 (you have to install each module individually)  
   > -[Downloads](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20downloads)  
   > -[Mi Video](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20mi%20video)  
-  > -[Miui File Manager](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20file%20manager)  
-  > -[Miui Music](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20music)  
-  > -[Miui Scanner](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20scanner)  
+  > -[MIUI File Manager](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20file%20manager)  
+  > -[MIUI Music](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20music)  
+  > -[MIUI Scanner](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20scanner)  
   > -[ShareMe](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20shareme)  
   > -[Youtube](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20youtube)  
  
