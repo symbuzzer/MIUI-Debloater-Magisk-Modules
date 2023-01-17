@@ -1,7 +1,7 @@
 id=Poco-Debloater-Stage1
 name=Poco-Debloater-Stage1
-version=v1.0.0
-versionCode=100
+version=v1.0.1
+versionCode=101
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Don't forget to uninstall debloated apps from "Settings > Applications > Manage Applications" section if still exist
 updateJson=https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/stage%201/update.json
