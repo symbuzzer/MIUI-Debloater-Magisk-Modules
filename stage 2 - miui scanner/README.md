@@ -1,4 +1,4 @@
-# Poco Debloater Stage 2 - MIUI Scanner  
+# POCO Debloater Stage 2 - MIUI Scanner  
  Removes this non-removable app from system without breaking anything:  
 > -/system/app/MiuiScanner - com.xiaomi.scanner - "Scanner"  
  
