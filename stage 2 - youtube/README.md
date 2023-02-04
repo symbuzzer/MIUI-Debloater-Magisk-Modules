@@ -1,4 +1,4 @@
-# Poco Debloater Stage 2 - Youtube  
+# POCO Debloater Stage 2 - Youtube  
  Removes this non-removable app from system without breaking anything:  
 > -/system/product/app/YouTube - com.google.android.youtube - "Youtube"  
  
