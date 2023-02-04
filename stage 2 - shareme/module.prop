@@ -1,7 +1,7 @@
 id=Poco-Debloater-Stage2-ShareMe
 name=Poco-Debloater-Stage2-ShareMe
-version=v1.0.1
-versionCode=101
+version=v1.1.0
+versionCode=110
 author=Ali Beyaz (avalibeyaz.com/github)
-description=Don't forget to uninstall "ShareMe" app from "Settings > Applications > Manage Applications" section if still exist
+description=Removes this non-removable "ShareMe" app from system without breaking anything
 updateJson=https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/stage%202%20-%20shareme/update.json
