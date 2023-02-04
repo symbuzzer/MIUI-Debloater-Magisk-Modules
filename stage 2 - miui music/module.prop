@@ -1,7 +1,7 @@
 id=Poco-Debloater-Stage2-MIUI-Music
 name=Poco-Debloater-Stage2-MIUI-Music
-version=v1.1.0
-versionCode=110
+version=v1.1.1
+versionCode=111
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Removes this non-removable "Music" app from system without breaking anything
 updateJson=https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/stage%202%20-%20miui%20music/update.json
