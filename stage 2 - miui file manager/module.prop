@@ -1,7 +1,7 @@
 id=Poco-Debloater-Stage2-MIUI-File-Manager
 name=Poco-Debloater-Stage2-MIUI-File-Manager
-version=v1.0.1
-versionCode=101
+version=v1.1.0
+versionCode=110
 author=Ali Beyaz (avalibeyaz.com/github)
-description=Don't forget to uninstall "File Manager" app from "Settings > Applications > Manage Applications" section if still exist
+description=Removes this non-removable "File Manager" app from system without breaking anything
 updateJson=https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/stage%202%20-%20miui%20file%20manager/update.json
