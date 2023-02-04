@@ -1,4 +1,4 @@
-# Poco Debloater Stage 2 - ShareMe  
+# POCO Debloater Stage 2 - ShareMe  
  Removes this non-removable app from system without breaking anything:  
 > -/system/app/MIDrop - com.xiaomi.midrop - "ShareMe"  
  
