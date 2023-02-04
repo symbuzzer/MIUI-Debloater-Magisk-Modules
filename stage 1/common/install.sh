@@ -1,4 +1,4 @@
-ui_print "Updates will be uninstalled..."
+ui_print "- Updates will be uninstalled..."
 pm uninstall-system-updates com.miui.analytics
 pm uninstall-system-updates com.facebook.appmanager
 pm uninstall-system-updates com.xiaomi.joyose
