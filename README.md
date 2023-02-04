@@ -1,4 +1,4 @@
-# Various debloater magisk modules for Poco devices  
+# Various debloater magisk modules for POCO devices  
  Debloat various system apps on Poco devices.  
  Works on both MIUI 13 and MIUI 12. Should work other MIUI based devices too.   
  Removes these non-removable apps from system without breaking anything:  
