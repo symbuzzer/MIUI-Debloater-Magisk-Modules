@@ -10,7 +10,7 @@
   > -MIUI Daemon  
   > -MSA Global  
   > -GetApps  
-  > -Payment Service  
+  > -MiCoin  
   > -Xiaomi SIM Activation Service  
   > -MiPay  
   > -Facebook Installer  
