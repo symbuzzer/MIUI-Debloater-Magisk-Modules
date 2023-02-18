@@ -1,3 +1,6 @@
+For support this project: [Patreon](https://avalibeyaz.com/patreon)  
+----------------------
+  
 v1.1.0  
 - Added uninstalling updates of debloated apps feature  
   
@@ -6,6 +9,3 @@ v1.0.1
   
 v1.0.0  
 - Initial release
-
--------------------
-For support this project: [Patreon](https://avalibeyaz.com/patreon)
