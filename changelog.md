@@ -1,7 +1,7 @@
 For support this project: [Patreon](https://avalibeyaz.com/patreon)  
 ----------------------  
 v1.2.0 (only Stage 1)
-- Added Mipicks for MIUI 11  
+- Added Mipicks for MIUI 11 (thanks to [vellrya](https://github.com/vellrya))  
   
 v1.1.0  
 - Added uninstalling updates of debloated apps feature  
