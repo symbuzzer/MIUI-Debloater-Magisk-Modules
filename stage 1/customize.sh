@@ -40,6 +40,7 @@ REPLACE="
 /system/app/MiuiDaemon
 /system/app/MSA-Global
 /system/app/MIUIMiPicks
+/system/app/MiPicks
 /system/app/PaymentService
 /system/app/XiaomiSimActivateService
 /system/app/InMipay
