@@ -1,7 +1,7 @@
 id=Poco-Debloater-Stage1
 name=Poco-Debloater-Stage1
-version=v1.1.0
-versionCode=110
+version=v1.2.0
+versionCode=120
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Debloat various system apps on POCO devices
 updateJson=https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/stage%201/update.json
