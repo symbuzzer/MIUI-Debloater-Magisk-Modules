@@ -1,7 +1,7 @@
 id=Poco-Debloater-Stage2-Downloads
 name=Poco-Debloater-Stage2-Downloads
-version=v1.1.0
-versionCode=110
+version=v1.3.0
+versionCode=130
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Removes this non-removable "Downloads" app from system without breaking anything
 updateJson=https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/stage%202%20-%20downloads/update.json

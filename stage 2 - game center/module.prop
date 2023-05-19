@@ -1,0 +1,7 @@
+id=Poco-Debloater-Stage2-Game-Center
+name=Poco-Debloater-Stage2-Game-Center
+version=v1.3.0
+versionCode=130
+author=Ali Beyaz (avalibeyaz.com/github)
+description=Removes this non-removable "Game Center" app from system without breaking anything
+updateJson=https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/stage%202%20-%20game%20center/update.json
