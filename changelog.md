@@ -1,5 +1,8 @@
 # For support this project: [Patreon](https://avalibeyaz.com/patreon)  
 ----------------------  
+## v1.3.2 (Only Mi Music)   
+- Attempt to fix Mi Music problems (thanks to [Mehmet-I](https://github.com/Mehmet-I))  
+  
 ## v1.3.1 (Only Mi Browser and Mi Video)  
 - Attempt to fix Mi Browser an Mi Video problems  
   
