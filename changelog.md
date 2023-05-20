@@ -1,5 +1,8 @@
 # For support this project: [Patreon](https://avalibeyaz.com/patreon)  
 ----------------------  
+## v1.3.1 (Only Mi Browser and Mi Video)  
+- Attempt to fix Mi Browser an Mi Video problems  
+  
 ## v1.3.0  
 - Added Mi Browser and Game Center to stage 2 modules (thanks to [Mehmet-I](https://github.com/Mehmet-I))  
   
