@@ -1,7 +1,7 @@
-id=Poco-Debloater-Stage2-MI-Browser
-name=Poco-Debloater-Stage2-MI-Browser
+id=Poco-Debloater-Stage2-Mi-Browser
+name=Poco-Debloater-Stage2-Mi-Browser
 version=v1.3.0
 versionCode=130
 author=Ali Beyaz (avalibeyaz.com/github)
-description=Removes this non-removable "MI Browser" app from system without breaking anything
+description=Removes this non-removable "Mi Browser" app from system without breaking anything
 updateJson=https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/stage%202%20-%20mi%20browser/update.json
