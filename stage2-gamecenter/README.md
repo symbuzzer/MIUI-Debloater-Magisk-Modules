@@ -1,4 +1,4 @@
-# POCO Debloater Stage 2 - Game Center  
+# MIUI Debloater Stage 2 - Game Center  
 Removes this non-removable app from system without breaking anything:  
 > - /system/app/MiGameCenterGlobal - "Game Center"  
  
