@@ -1,8 +1,8 @@
 # Various debloater magisk modules for POCO, REDMI and XIAOMI devices  
- Debloat various system apps on POCO, REDMI and XIAOMI devices.  
- Works on both MIUI 13 and MIUI 12. Also confimed working on MIUI 11.  
- It is tested POCO X3 GT, POCO X3 PRO and XIAOMI MI 10T PRO. Should work other MIUI based devices too.   
- Removes these non-removable apps from system without breaking anything:  
+- Debloat various system apps on POCO, REDMI and XIAOMI devices.  
+- Works on both MIUI 13 and MIUI 12. Also confimed working on MIUI 11.  
+- It is tested POCO X3 GT, POCO X3 PRO and XIAOMI MI 10T PRO. Should work other MIUI based devices too.   
+- Removes these non-removable apps from system without breaking anything:  
 ## Stage 1:  
 (just installing [stage 1 module](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage%201) will remove all)  
   > - Analytics  
