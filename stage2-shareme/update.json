@@ -1,6 +1,6 @@
 {
-  "version": "v1.3.0",
-  "versionCode": 130,
-  "zipUrl": "https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/releases/download/v1.3.0/poco-debloater-stage2-shareme.zip",
-  "changelog": "https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/changelog.md"
+  "version": "v2.0.0",
+  "versionCode": 200,
+  "zipUrl": "https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/releases/download/v2.0.0/stage2-shareme.zip",
+  "changelog": "https://raw.githubusercontent.com/symbuzzer/MIUI-Debloater-Magisk-Modules/main/CHANGELOG.md"
 }
