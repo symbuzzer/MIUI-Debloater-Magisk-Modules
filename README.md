@@ -26,7 +26,7 @@
 (you have to install each module individually)  
   > - [Downloads](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-downloads)  
   > - [Game Center](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-gamecenter)  
-  > - [MI Browser](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-mibrowser)  
+  > - [Mi Browser](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-mibrowser)  
   > - [Mi Video](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-mivideo)  
   > - [MIUI File Manager](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-miuifilemanager)  
   > - [MIUI Music](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-miuimusic)  
