@@ -1,7 +1,7 @@
-id=Poco-Debloater-Stage2-Downloads
-name=Poco-Debloater-Stage2-Downloads
-version=v1.3.0
-versionCode=130
+id=MIUI-Debloater-Stage2-Downloads
+name=MIUI Debloater Stage2 Downloads
+version=v2.0.0
+versionCode=200
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Removes this non-removable "Downloads" app from system without breaking anything
-updateJson=https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/stage%202%20-%20downloads/update.json
+updateJson=https://raw.githubusercontent.com/symbuzzer/MIUI-Debloater-Magisk-Modules/main/stage2-downloads/update.json
