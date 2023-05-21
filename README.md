@@ -4,7 +4,7 @@
  It is tested POCO X3 GT, POCO X3 PRO and XIAOMI MI 10T PRO. Should work other MIUI based devices too.   
  Removes these non-removable apps from system without breaking anything:  
 ## Stage 1:  
-(just installing [stage 1 module](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%201) will remove all)  
+(just installing [stage 1 module](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage%201) will remove all)  
   > - Analytics  
   > - Facebook App Manager  
   > - Joyose  
@@ -24,15 +24,14 @@
   > - IFAA Service  
 ## Stage 2:  
 (you have to install each module individually)  
-  > - [Downloads](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20downloads)  
-  > - [Game Center](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20game%20center)  
-  > - [MI Browser](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20mi%20browser)  
-  > - [Mi Video](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20mi%20video)  
-  > - [MIUI File Manager](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20file%20manager)  
-  > - [MIUI Music](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20music)  
-  > - [MIUI Scanner](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20scanner)  
-  > - [ShareMe](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20shareme)  
-  > - [Youtube](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%202%20-%20youtube)  
+  > - [Downloads](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage%202%20-%20downloads)  
+  > - [Game Center](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage%202%20-%20game%20center)  
+  > - [MI Browser](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage%202%20-%20mi%20browser)  
+  > - [Mi Video](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage%202%20-%20mi%20video)  
+  > - [MIUI File Manager](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20file%20manager)  
+  > - [MIUI Music](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20music)  
+  > - [MIUI Scanner](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage%202%20-%20miui%20scanner)  
+  > - [ShareMe](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage%202%20-%20shareme)  
+  > - [Youtube](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage%202%20-%20youtube)  
  
-# [Downloads](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/releases) 
-There may be only one or several modules in the most recent version. Therefore, do not forget to look at the other versions, from newest to oldest, respectively, for the modules that you cannot find in the most recent version.
+# [Downloads](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/releases)  
