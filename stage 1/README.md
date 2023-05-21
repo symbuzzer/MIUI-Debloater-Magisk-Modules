@@ -18,4 +18,4 @@
 > - /system/vendor/app/SoterService - com.tencent.soter.soterserver - "Soter Service"  
 > - /system/vendor/app/IFAAService - org.ifaa.aidl.manager - "IFAA Service"  
    
-# [Downloads](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/releases)
+# [Downloads](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/releases)
