@@ -12,12 +12,12 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-      - name: Creating module zip
+      - name: Creating modules zip files
         run:  |
-          mkdir -p zip
           find . -type d -exec sh -c 'zip -r "{}.zip" "{}"' \;
+          mkdir -p zip
           mv *.zip zip/
-      - name: Create and upload release asset
+      - name: Create and upload release assets
         uses: symbuzzer/fork-github-release@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
