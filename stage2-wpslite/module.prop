@@ -1,0 +1,7 @@
+id=MIUI-Debloater-Stage2-Wps-Lite
+name=MIUI Debloater Stage2 Wps Lite
+version=v2.0.1
+versionCode=201
+author=Ali Beyaz (avalibeyaz.com/github)
+description=Removes this non-removable "Wps Lite" app from system without breaking anything
+updateJson=https://raw.githubusercontent.com/symbuzzer/MIUI-Debloater-Magisk-Modules/main/stage2-wpslite/update.json

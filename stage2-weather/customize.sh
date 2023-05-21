@@ -34,8 +34,7 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
-/system/app/MiuiScanner
-/system/priv-app/MiuiScanner
+/system/app/wps-lite
 "
 
 ##########################################################################################

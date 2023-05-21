@@ -1,5 +1,10 @@
 ## For support this project: [Patreon](https://avalibeyaz.com/patreon)  
 ----------------------  
+## v2.0.1  
+- Fixed Miui Scanner module  
+- Added Wps-Lite app  
+- Added Miui Weather app  
+  
 ## v2.0.0  
 - Renamed Poco-Debloater-Magisk-Modules to MIUI-Debloater-Magisk-Modules  
 - Added a workflow to create and release all module files same time  
