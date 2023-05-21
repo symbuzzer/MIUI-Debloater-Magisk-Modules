@@ -1,4 +1,4 @@
-# POCO Debloater Stage 2 - MI Browser  
+# MIUI Debloater Stage 2 - MI Browser  
  Removes this non-removable app from system without breaking anything:  
 > - /system/priv-app/MiBrowserGlobal - "Mi Browser"  
  
