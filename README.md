@@ -32,6 +32,8 @@
   > - [MIUI Music](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-miuimusic)  
   > - [MIUI Scanner](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-miuiscanner)  
   > - [ShareMe](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-shareme)  
+  > - [Weather](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-weather)
+  > - [Wps Lite](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-wpslite)
   > - [Youtube](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/tree/main/stage2-youtube)  
  
 # [Downloads](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/releases)  
