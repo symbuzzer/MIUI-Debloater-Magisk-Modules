@@ -1,4 +1,4 @@
-# POCO Debloater Stage 1  
+# MIUI Debloater Stage 1  
  Removes these non-removable apps from system without breaking anything:  
 > - /system/app/AnalyticsCore - com.miui.analytics - "Analytics"  
 > - /system/app/facebook-appmanager - com.facebook.appmanager "Facebook App Manager"  
