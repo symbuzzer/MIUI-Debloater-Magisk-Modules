@@ -14,7 +14,7 @@ jobs:
           fetch-depth: 0
       - name: Creating modules zip files
         run:  |
-          find . -type d -exec sh -c 'zip -r "{}.zip" "{}" -x "*.zip"' \;
+          find . -type d -exec sh -c 'zip -r "{}/{}.zip" "{}"' \;
           mkdir -p zip
           mv *.zip zip/
       - name: Create and upload release assets
