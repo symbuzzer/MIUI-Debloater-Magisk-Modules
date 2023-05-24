@@ -2,6 +2,7 @@
 ----------------------  
 ## v2.0.2  
 - Fixed uninstalling random apps issues for all modules  
+- Fixed waether module not working issue  
   
 ## v2.0.1  
 - Fixed Miui Scanner module  
