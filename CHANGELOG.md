@@ -1,5 +1,8 @@
 ## For support this project: [Patreon](https://avalibeyaz.com/patreon)  
 ----------------------  
+## v2.0.2  
+- Fixed uninstalling random apps issues for all modules  
+  
 ## v2.0.1  
 - Fixed Miui Scanner module  
 - Added Wps-Lite app  
