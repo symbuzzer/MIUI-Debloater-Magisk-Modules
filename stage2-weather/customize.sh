@@ -35,6 +35,7 @@ REPLACE_EXAMPLE="
 # Construct your own list here
 REPLACE="
 /system/priv-app/weather
+/system/priv-app/Weather
 "
 
 ##########################################################################################
