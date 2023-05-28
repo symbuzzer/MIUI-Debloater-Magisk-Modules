@@ -1,5 +1,8 @@
 ## For support this project: [Patreon](https://avalibeyaz.com/patreon)  
 ----------------------  
+## v2.0.3 (only Weather)  
+- Attempt to fix Weather module  
+  
 ## v2.0.2  
 - Fixed uninstalling random apps issues for all modules  
 - Fixed waether module not working issue  
