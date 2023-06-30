@@ -1,5 +1,9 @@
 ## For support this project: [Patreon](https://avalibeyaz.com/patreon)  
 ----------------------  
+## v2.1.0  
+- Added KernelSU support  
+- Fixed update issues
+  
 ## v2.0.3 (only Weather)  
 - Attempt to fix Weather module  
   
