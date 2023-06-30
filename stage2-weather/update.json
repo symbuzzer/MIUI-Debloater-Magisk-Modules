@@ -1,6 +1,6 @@
 {
-  "version": "v2.0.3",
-  "versionCode": 203,
-  "zipUrl": "https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/releases/download/v2.0.3/stage2-weather.zip",
+  "version": "v2.1.0",
+  "versionCode": 210,
+  "zipUrl": "https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/releases/latest/download/stage2-weather.zip",
   "changelog": "https://raw.githubusercontent.com/symbuzzer/MIUI-Debloater-Magisk-Modules/main/CHANGELOG.md"
 }
