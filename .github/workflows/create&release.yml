@@ -22,7 +22,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ env.DATE }}
-          name: Update date = ${{ env.DATE }}
+          name: Update date ${{ env.DATE }}
           body: Please check [changelog](https://github.com/${{ github.repository }}/blob/${{ github.ref_name }}/CHANGELOG.md) for changes
           files: zip/*
           gzip: false
