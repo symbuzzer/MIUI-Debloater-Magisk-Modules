@@ -1,7 +1,7 @@
 id=MIUI-Debloater-Stage1
 name=MIUI Debloater Stage1
-version=v2.0.3
-versionCode=203
+version=v2.1.0
+versionCode=210
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Debloat various system apps on MIUI devices
 updateJson=https://raw.githubusercontent.com/symbuzzer/MIUI-Debloater-Magisk-Modules/main/stage1/update.json
