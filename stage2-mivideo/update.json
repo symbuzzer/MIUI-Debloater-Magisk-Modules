@@ -1,6 +1,6 @@
 {
-  "version": "v2.0.2",
-  "versionCode": 202,
-  "zipUrl": "https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/releases/download/v2.0.2/stage2-mivideo.zip",
+  "version": "v2.1.0",
+  "versionCode": 210,
+  "zipUrl": "https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/releases/latest/download/stage2-mivideo.zip",
   "changelog": "https://raw.githubusercontent.com/symbuzzer/MIUI-Debloater-Magisk-Modules/main/CHANGELOG.md"
 }
