@@ -1,6 +1,6 @@
 {
-  "version": "v2.0.2",
-  "versionCode": 202,
-  "zipUrl": "https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/releases/download/v2.0.2/stage1.zip",
+  "version": "v2.0.3",
+  "versionCode": 203,
+  "zipUrl": "https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/releases/latest/download/stage1.zip",
   "changelog": "https://raw.githubusercontent.com/symbuzzer/MIUI-Debloater-Magisk-Modules/main/CHANGELOG.md"
 }
